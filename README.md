@@ -21,6 +21,3 @@ Minimal custom UI modifications for Vivaldi browser. Kiosk-style full screen mod
 3. Open Settings → Appearance → Custom UI Modifications
 4. Select folder containing these CSS files
 
-## License
-
-[MIT](LICENSE)
